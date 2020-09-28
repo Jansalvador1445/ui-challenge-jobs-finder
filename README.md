@@ -1,5 +1,5 @@
 # Screenshots
-|Pizza Delivery App by Joni Sindo|
+|Screenshots|
 |---|
 |<img src="images/ss.png" alt="" width=250/>|
 
