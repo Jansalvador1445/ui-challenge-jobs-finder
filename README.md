@@ -1,7 +1,7 @@
 # Screenshots
 |Screenshots|
 |---|
-|<img src="images/ss.png" alt="" width=250/>|
+|<img src="ss.png" alt="" width=250/>|
 
 
 
